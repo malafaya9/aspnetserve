@@ -11,6 +11,7 @@ Creating an embedded server using aspNETserve involves only a few lines of code.
 
 Sample 1 is perhaps the simplist of console web servers. This particular server is so simple because it does not accept user inputs for its configurations, those are simply hard coded.
 
+====== C# ======
 {{{
 using System;
 using System.Collections.Generic;
@@ -31,6 +32,27 @@ namespace ConsoleWebServer {
         }
     }
 }
+}}}
+====== VB.NET ======
+{{{
+Imports System
+Imports System.Collections.Generic
+Imports System.Text
+Imports aspNETserve
+ 
+Namespace ConsoleWebServer
+    Class Program
+        Shared  Sub Main(ByVal args() As String)
+            Dim physicalPath As String =  "c:\\wwwroot" 
+            Dim port As Integer =  8080 
+            Imports (Server s = New Server(New System.Net.IPAddress(New Byte() { 127, 0, 0, 1 }), "/", physicalPath, port)) {
+                s.Start()
+                Console.WriteLine("Press any key to stop the server")
+                Console.ReadKey()
+                s.Stop()
+        End Sub
+    End Class
+End Namespace
 }}}
 
 The ServerObject is the core component for any embedded server. It is this object that represents the instance of aspNETserve hosted within your own application.
