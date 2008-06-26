@@ -1,0 +1,7 @@
+#summary The API reference guide for aspNETserve.
+
+= Table of Contents =
+
+   * A simple ConsoleServer
+   * The ServerObject
+   * An ArchitectureOverview
