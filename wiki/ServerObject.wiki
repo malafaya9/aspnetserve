@@ -1,0 +1,18 @@
+#summary A detailed look at the Server object.
+
+= Introduction =
+
+The Server object represents an instance of aspNETserve.
+
+
+= Details =
+
+The Server object represents the default implementation of IServer, and interface which represents the following actions:
+{{{
+        void Start();
+        void Stop();
+        ServerStatus Status { get; }
+
+}}}
+
+All implementations of IServer are responsible for opening and listening on their preconfigured ports on the Start command, and disposing those resources upon the Stop command.
