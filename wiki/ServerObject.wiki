@@ -10,7 +10,7 @@ The Server object represents an instance of aspNETserve.
 
 = Details =
 
-The Server object represents the default implementation of [http://code.google.com/p/aspnetserve/source/browse/trunk/aspNETserve/IServer.cs IServer], and interface which represents the following actions:
+The Server object represents the default implementation of [http://code.google.com/p/aspnetserve/source/browse/trunk/aspNETserve/IServer.cs IServer], an interface which represents the following actions:
 {{{
         void Start();
         void Stop();
