@@ -1,4 +1,4 @@
-#summary A simple console based web server using the aspNETserve framework.
+#summary A simple console based web server using the aspNETserve framework. This page of part of the ApiReferenceGuide.
 #labels Phase-Documentation
 
 = Introduction =
