@@ -12,6 +12,6 @@ Contributions to the aspNETserve project can take many forms. Everything from pa
 
 === Developer Tasks ===
    * *Patch Submission* - Think you can solve our bugs? A PatchSubmission can prove it.
-   * *Feature Enhancements* - IF you've added new functionality to aspNETserve a PatchSubmission is the best way to let us know about it. 
+   * *Feature Enhancements* - If you've added new functionality to aspNETserve a PatchSubmission is the best way to let us know about it. 
 
 Developers may additionally want to check out the ContributorResources and the ApiReferenceGuide.
