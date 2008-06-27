@@ -1,0 +1,7 @@
+#summary Resources for project contributors.
+
+= Contributor Resources =
+Contained on this page is a collection of links to web resources helpful for anyone contributing to the aspNETserve project.
+
+=== Background Information ===
+   * [http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol Hypertext Transfer Protocol]
