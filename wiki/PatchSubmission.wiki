@@ -7,7 +7,7 @@ A patch is a file that describes changes made to a piece of software. Patches ar
 
 === Patch Creation ===
 
-To create a patch simply run the following command from a command prompt:
+First acquire a working copy of the subversion repository, and make your desired changes locally. Next, to create a patch simply run the following command from a command prompt:
 {{{
 svn diff > patch.diff
 }}}
