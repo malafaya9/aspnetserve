@@ -6,7 +6,7 @@
 aspNETserve is a web server designed for the hosting of ASP.NET applications. It can be ran as a standalone application or embedded into your own applications.
 
 
-==== Running As A Stand Alone Web Server ====
+==== Running As a Stand Alone Web Server ====
 
   * [http://code.google.com/p/aspnetserve/downloads/list Download] and install the latest binary version of aspNETserve.
   * After install use either the "Host In aspNETserve" context menu or launch the UI from the Start Menu.
