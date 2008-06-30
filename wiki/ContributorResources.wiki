@@ -5,3 +5,5 @@ Contained on this page is a collection of links to web resources helpful for any
 
 === Background Information ===
    * [http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol Hypertext Transfer Protocol]
+   * [http://en.wikipedia.org/wiki/Secure_Sockets_Layer Secure Sockets Layer]
+   * [http://en.wikipedia.org/wiki/HTTP_persistent_connections HTTP Persistent Connections]
