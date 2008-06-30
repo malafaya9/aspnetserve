@@ -12,3 +12,10 @@ Projected Release October 31, 2008
 ===== Bug Fixes =====
    * [http://code.google.com/p/aspnetserve/issues/detail?id=1 HTTP Persistent Connections Unsupported]
    * ~~[http://code.google.com/p/aspnetserve/issues/detail?id=6 AspNetWork.GetProtocol() Is Unimplemented]~~
+
+----
+
+=== Version 1.4 ===
+Projected Release December 25, 2008
+==== Enhancements ====
+   * [http://code.google.com/p/aspnetserve/issues/detail?id=7&can=1 HTTPS Support]
