@@ -9,4 +9,4 @@ Contained on this page is a collection of links to web resources helpful for any
    * [http://en.wikipedia.org/wiki/HTTP_persistent_connections HTTP Persistent Connections]
 
 === RFCs ===
-   * [http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html RFC2616 Sec. 8 - Connections]
+   * [http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html RFC 2616 Sec. 8 - Connections]
