@@ -26,4 +26,4 @@ All submissions must meet the following requirements:
    * The submitted work must be released under the same license as aspNETserve.
    * The submission must not have been the product of reverse engineering, or information protected by non-disclosure agreements.
 
-In addition, submissions are subject to approval and refactoring. Not allow submissions will be approved.
+In addition, submissions are subject to approval and refactoring. Not all submissions will be approved.
