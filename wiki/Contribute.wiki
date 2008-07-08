@@ -5,12 +5,12 @@
 
 Contributions to the aspNETserve project can take many forms. Everything from patch submission and bug reports to complements and criticisms go a long way to helping the project.
 
-=== User Tasks ===
+=== Everyone ===
    * *Feature Requests* - Have an idea? Use the "Issues" tab to submit a feature request.
    * *Bug Reports* - Experienced difficulties? Discuss your problems in the [http://groups.google.com/group/aspnetserve discussion group] and perhaps submit a [http://code.google.com/p/aspnetserve/issues/list bug report].
    * *Complements/Criticisms* - Love it, hate it? Let us know by participating in our [http://groups.google.com/group/aspnetserve discussion group].
 
-=== Developer Tasks ===
+=== Developers ===
    * *Patch Submission* - Think you can solve our bugs? A PatchSubmission can prove it.
    * *Feature Enhancements* - If you've added new functionality to aspNETserve a PatchSubmission is the best way to let us know about it. 
 
