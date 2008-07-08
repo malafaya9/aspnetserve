@@ -23,3 +23,4 @@ Projected Release December 25, 2008
 ==== Enhancements ====
    * [http://code.google.com/p/aspnetserve/issues/detail?id=7&can=1 HTTPS Support]
    * [http://code.google.com/p/aspnetserve/issues/detail?id=8 Name Based Virtual Hosting]
+   * [http://code.google.com/p/aspnetserve/issues/detail?id=3 Server Authentication Modes]
