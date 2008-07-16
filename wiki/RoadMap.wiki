@@ -15,6 +15,7 @@ Projected Release October 31, 2008
 
 ==== Enhancements ====
    * [http://code.google.com/p/aspnetserve/issues/detail?id=9 Windows Service Server]
+   * [http://code.google.com/p/aspnetserve/issues/detail?id=10 Packaging Abilities]
 
 ----
 
