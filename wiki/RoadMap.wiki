@@ -3,7 +3,7 @@
 
 === ~~Version 1.2.1~~ ===
 Released June 26, 2008
- * A baseline release to provide a know starting grounds for future progress. (i.e., no real features or bug fixes over version 1.2)
+ * A baseline release to provide a known starting grounds for future progress. (i.e., no real features or bug fixes over version 1.2)
 
 ----
 
