@@ -1,4 +1,5 @@
 #summary An overview of the XML schema for aspNETservice configuration files.
+#labels FutureVersion,Phase-Deploy
 
 = XML Schema Definition =
 The XML Schema Definition (XSD) file can be located at [http://aspnetserve.googlecode.com/svn/trunk/aspNETserve.config.xsd]
