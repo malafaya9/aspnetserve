@@ -10,6 +10,7 @@ aspNETserve is a web server designed for the hosting of ASP.NET applications. It
 
   * [http://code.google.com/p/aspnetserve/downloads/list Download] and install the latest binary version of aspNETserve.
   * After install use either the "Host In aspNETserve" context menu or launch the UI from the Start Menu.
+  * Alternatively you can use the [aspNETserveIce aspNETserve.Ice] windows service to host web applications in the background. 
 
 ==== Embedding aspNETserve ====
  For information about embedding aspNETserve see our ApiReferenceGuide.
