@@ -1,5 +1,5 @@
 #summary Overview of Web Application Packages (WAPs).
-#labels Phase-Documentation,FutureVersion
+#labels Phase-Documentation
 
 = Overview =
 
