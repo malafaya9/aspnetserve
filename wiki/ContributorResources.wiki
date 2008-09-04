@@ -10,3 +10,5 @@ Contained on this page is a collection of links to web resources helpful for any
    * [http://msdn.microsoft.com/en-us/library/sd8zc8ha(VS.80).aspx How to: Install and Uninstall Services]
 === RFCs ===
    * [http://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html RFC 2616 Sec. 8 - Connections]
+=== .NET ===
+   * [http://blogs.msdn.com/astebner/archive/2005/07/12/what-net-framework-version-numbers-go-with-what-service-pack.aspx What .NET Framework version numbers go with what service pack]
