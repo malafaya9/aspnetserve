@@ -1,5 +1,5 @@
 #summary A detailed look at the Server object.
-#labels Phase-Documentation
+#labels Phase-Documentation,ApiReferenceGuide
 _This page is part of the ApiReferenceGuide._
 
 
