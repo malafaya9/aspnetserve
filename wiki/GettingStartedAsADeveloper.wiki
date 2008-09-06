@@ -1,5 +1,5 @@
 #summary Getting Started With aspNETserve (A Developer's Guide)
-#labels Phase-Documentation
+#labels Phase-Documentation,ApiReferenceGuide
 _This page is part of the ApiReferenceGuide._
 
 = Introduction =
