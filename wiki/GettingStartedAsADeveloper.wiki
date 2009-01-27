@@ -19,6 +19,6 @@ aspNETserve is composed of primarily 2 assemblies aspNETserve and aspNETserve.Co
 The aspNETserve assembly (sometimes called aspNETserve.dll to avoid confusion) contains the functionality that executes in the hosting AppDomain.
 
 ==== aspNETserve.Core ====
-the aspNETserve.Core assembly contains the components of aspNETserve that need to be executed from within the hosted AppDomain. It should be noted that as of version 1.3 of aspNETserve the aspNETserve.Core assembly will either need to be placed in the GAC or within your web application's bin directory. For more information on this please see read [http://jason.whitehorn.ws/2008/08/24/aspNETserve+Without+GAC+Install.aspx aspNETserve Without GAC Install].
+the aspNETserve.Core assembly contains the components of aspNETserve that need to be executed from within the hosted AppDomain. It should be noted that as of version 1.3 of aspNETserve the aspNETserve.Core assembly will either need to be placed in the GAC or within your web application's bin directory. For more information on this please see read [http://jason.whitehorn.ws/2008/08/24/aspNETserve-Without-GAC-Install.aspx aspNETserve Without GAC Install].
 
 Determining which of the two assemblies to reference for your project is a matter of what your project is attempting to accomplish. For _most_ applications you will want to reference the aspNETserve.dll as it is the one that contains the ServerObject which represents the "web server" and handles all incoming TCP/IP requests.
